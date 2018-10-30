@@ -1,0 +1,56 @@
+## Potential bugs:
+
+BufferedReader
+
+We can implements our own readline.
+We read bytes until we see the new line.
+(ByteArrayOutputStream)
+
+## HTTPServer.java
+
+## Part2 POST /reviewsearch (query = term)
+
+Return html page:
+```html
+<table>
+  <li> content of the search results<li>
+</table>
+```
+
+## Model View Controller
+
+Applications basic tiers:
+
+View : Presentation
+
+Controller : Logic
+
+Model : Data
+
+## Server framwork
+
+Framwork should be independent. 
+Use HashMap to store the handlers.
+
+
+## How to test the responses is correct
+
+1. Check the lines count.
+2. Check whether it matches the expect html
+3. Screen scraper? (Not the most stable sol)
+4. ...
+
+## Web Service
+  A web service is a software system designed to support interoperable 
+
+  SOAP versus REST 
+  REST is a pattern for building web services
+    * Everything on the web is a resource
+    * Web service allows ...
+  
+  Example: Flickr
+  
+
+
+
+
